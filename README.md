@@ -66,6 +66,7 @@ By typing in node liri.js concert-this <artist/band name here>
         - Date of the Event (use moment to format this as "MM/DD/YYYY")
         - The date of the Event will be formated by using the npm package moment.
 
+![Gif of concert-this](./readme-images/concert-this.gif)
 ### spotify-this-song
 
 By typing in node liri.js spotify-this-song <song name here>

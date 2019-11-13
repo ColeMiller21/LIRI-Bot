@@ -1,58 +1,13 @@
+Concert Info for Maroon 5
+Venue name: Mandalay Bay Events Center
+Venue location: Las Vegas, NV, United States
+Date of event: 12/30/2019
+
 Song Info for Hello
 Artist: Adele
 Song Name: Hello
 Album Name: 25
 Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for I Want It That Way
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Album Name: The Hits--Chapter One
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Movie Title: Up
-Release Year: 2009
-IMDB Rating: undefined
-Ratings: {"Source":"Rotten Tomatoes","Value":"98%"}
-The movie was made in: USA
-The language is: English
-The Plot is: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
-The Actors are: Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
-
-
-
-Song Info for I Want It That Way
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Album Name: The Hits--Chapter One
-Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Movie Title: Mr. Nobody
-Release Year: 2009
-IMDB Rating: undefined
-Ratings: {"Source":"Rotten Tomatoes","Value":"67%"}
-The movie was made in: Belgium, Germany, Canada, France, USA, UK
-The language is: English, Mohawk
-The Plot is: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-The Actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-
-Movie Title: Up
-Release Year: 2009
-IMDB Rating: undefined
-Ratings: {"Source":"Rotten Tomatoes","Value":"98%"}
-The movie was made in: USA
-The language is: English
-The Plot is: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
-The Actors are: Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
-
-Movie Title: Mr. Nobody
-Release Year: 2009
-IMDB Rating: undefined
-Ratings: {"Source":"Rotten Tomatoes","Value":"67%"}
-The movie was made in: Belgium, Germany, Canada, France, USA, UK
-The language is: English, Mohawk
-The Plot is: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-The Actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 Movie Title: Black Hawk Down
 Release Year: 2001
@@ -63,71 +18,8 @@ The language is: English, Somali, Arabic
 The Plot is: 160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.
 The Actors are: Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana
 
-Song Info for Hello
-Artist: Adele
-Song Name: Hello
-Album Name: 25
-Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for Sign of the Times
-Artist: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for Sign of the Times
-Artist: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for Sign of the Times
-Artist: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for thesign
-Artist: Hi Ena
-Song Name: thesign
-Album Name: wat.r is free
-Preview URL: https://p.scdn.co/mp3-preview/44ba25799f752a1a3cd8a0c033326674cf19d2d8?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for Sign of the Times
-Artist: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for Sign of the Times
-Artist: Harry Styles
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
-Artist: Dreamville
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for The Sign
-Artist: Ace of Base
-Song Name: Sign of the Times
-Album Name: Harry Styles
-Preview URL: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Song Info for The Sign
-Artist: Ace of Base
-Song Name: The Sign
-Album Name: The Sign (US Album) [Remastered]
-Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=521d3d0154e347ada0dcfeb61b078a66
-
-Movie Title: Black Hawk Down
-Release Year: 2001
-IMDB Rating: undefined
-Ratings: {"Source":"Rotten Tomatoes","Value":"76%"}
-The movie was made in: USA, UK
-The language is: English, Somali, Arabic
-The Plot is: 160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.
-The Actors are: Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana
+Song Info for I Want It That Way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=521d3d0154e347ada0dcfeb61b078a66

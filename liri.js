@@ -22,22 +22,18 @@ var spotify = new Spotify({
 
 switch (command) {
     case "concert-this":
-        console.log("concert");
         findConcert();
         break;
 
     case "spotify-this-song":
-        console.log("spotify");
         findSong();
         break;
 
     case "movie-this":
-        console.log("movie");
         findMovie();
         break;
-    // can change into function/object
+
     case "do-what-it-says":
-        console.log("doing what is says");
         doWhat();
         break;
 };
@@ -104,7 +100,7 @@ function findConcert() {
 
             })
 
-            console.log("--------------------");
+
 
         })
 
