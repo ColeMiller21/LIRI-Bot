@@ -78,6 +78,9 @@ By typing in node liri.js spotify-this-song <song name here>
         - A preview link of the song from Spotify
         - The album that the song is from
 
+    - If you do not type anything in the song "The Sign" by Ace of Base will be searched for. 
+
+![Gif of spotify-this-song](./readme-images/spotify.gif)
 ### movie-this
 
 By typing in node liri.js movie-this <movie name here>
@@ -93,7 +96,10 @@ By typing in node liri.js movie-this <movie name here>
         - Plot of the movie.
         - Actors in the movie.
 
-    - If you do not type anything in the movie "Mr. Nobody" will automatically be searched for
+    - If you do not type anything in the movie "Mr. Nobody" will automatically be searched for.
+
+
+![Gif of movie-this](./readme-images/movie-this.gif)
 
 ### do-what-it-says
 
@@ -101,9 +107,12 @@ By typing in node liri.js do-what-it-says
 
     - This will use the fs Node package to take the information typed in random.txt which is (spotify-this-song,"I Want it That Way") and search the run the same function for spotify-this-song and return the information. 
 
+![Gif of do-what-it-says](./readme-images/do-what.gif)
+
 ### log.txt
 
     - Each time you use the commands and get information back it will be appended to log.txt.
 
+![image of log.txt](./readme-images/logtxt.png)
 
 
