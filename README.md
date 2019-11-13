@@ -105,6 +105,4 @@ By typing in node liri.js do-what-it-says
     - Each time you use the commands and get information back it will be appended to log.txt.
 
 
-## Link To Clean Fridge
 
-Project Link : [https://colemiller21.github.io/Clean-Fridge/](https://colemiller21.github.io/Clean-Fridge/)
