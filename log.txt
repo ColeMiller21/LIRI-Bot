@@ -122,3 +122,12 @@ Artist: Ace of Base
 Song Name: The Sign
 Album Name: The Sign (US Album) [Remastered]
 Preview URL: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=521d3d0154e347ada0dcfeb61b078a66
+
+Movie Title: Black Hawk Down
+Release Year: 2001
+IMDB Rating: undefined
+Ratings: {"Source":"Rotten Tomatoes","Value":"76%"}
+The movie was made in: USA, UK
+The language is: English, Somali, Arabic
+The Plot is: 160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.
+The Actors are: Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana
