@@ -8,7 +8,7 @@
 * [Built With](#built-with)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Link to Clean Fridge](#link-to-clean-fridge)
+
 
 ## About The Project
 
