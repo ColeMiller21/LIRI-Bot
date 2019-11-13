@@ -111,27 +111,53 @@ function findConcert() {
 }
 
 function findSong(song) {
-    song = process.argv.splice(3).join("")
-    spotify.search({ type: 'track', query: song, limit: 1 })
-        .then(function (response) {
 
-            var songInfo = "Song Info for " + response.tracks.items[0].name +
-                "\nArtist: " + response.tracks.items[0].artists[0].name +
-                "\nSong Name: " + response.tracks.items[0].name +
-                "\nAlbum Name: " + response.tracks.items[0].album.name +
-                "\nPreview URL: " + response.tracks.items[0].preview_url + "\n";
-            console.log(songInfo)
-            fs.appendFile("log.txt", "\n" + songInfo, function (err) {
-                if (err) {
-                    console.log(err);
-                } else {
-                    console.log("content added to log.txt")
-                }
+    if (song = process.argv.splice(3).join("")) {
+        spotify.search({ type: 'track', query: song, limit: 1 })
+            .then(function (response) {
 
-            })
-        }).catch(function (err) {
-            console.log(err)
-        });
+                var songInfo = "Song Info for " + response.tracks.items[0].name +
+                    "\nArtist: " + response.tracks.items[0].artists[0].name +
+                    "\nSong Name: " + response.tracks.items[0].name +
+                    "\nAlbum Name: " + response.tracks.items[0].album.name +
+                    "\nPreview URL: " + response.tracks.items[0].preview_url + "\n";
+                console.log(songInfo)
+                fs.appendFile("log.txt", "\n" + songInfo, function (err) {
+                    if (err) {
+                        console.log(err);
+                    } else {
+                        console.log("content added to log.txt")
+                    }
+
+                })
+            }).catch(function (err) {
+                console.log(err)
+            });
+
+    }
+    else if (!song) {
+        song = "the sign"
+        spotify.search({ type: 'track', query: song, limit: 10 })
+            .then(function (response) {
+
+                var songInfo = "Song Info for " + response.tracks.items[5].name +
+                    "\nArtist: " + response.tracks.items[5].artists[0].name +
+                    "\nSong Name: " + response.tracks.items[5].name +
+                    "\nAlbum Name: " + response.tracks.items[5].album.name +
+                    "\nPreview URL: " + response.tracks.items[5].preview_url + "\n";
+                console.log(songInfo)
+                fs.appendFile("log.txt", "\n" + songInfo, function (err) {
+                    if (err) {
+                        console.log(err);
+                    } else {
+                        console.log("content added to log.txt")
+                    }
+
+                })
+            }).catch(function (err) {
+                console.log(err)
+            });
+    }
 };
 
 

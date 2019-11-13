@@ -64,7 +64,7 @@ By typing in node liri.js concert-this <artist/band name here>
 
 ### spotify-this-song
 
-By typing in node liri.js spotify-this-song '<song name here>'
+By typing in node liri.js spotify-this-song <song name here>
 
     - This will search the Spotify API for information of the song you have typed in returning
 
@@ -75,7 +75,7 @@ By typing in node liri.js spotify-this-song '<song name here>'
 
 ### movie-this
 
-By typing in node liri.js movie-this '<movie name here>'
+By typing in node liri.js movie-this <movie name here>
 
     - This will search through the OMDB API for the movie information and return 
 
