@@ -1,5 +1,7 @@
 # LIRI-Bot
 
+![Gif of LIRI Bot](liri.gif)
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -52,7 +54,7 @@ After installing the necessary NPM packages you can type in one of 4 commands wh
 * [log.txt](#log.txt)
 
 
-![Gif of LIRI Bot](liri.gif)
+
 ### concert-this
 
 By typing in node liri.js concert-this <artist/band name here>
