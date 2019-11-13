@@ -53,3 +53,12 @@ The movie was made in: Belgium, Germany, Canada, France, USA, UK
 The language is: English, Mohawk
 The Plot is: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 The Actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Movie Title: Black Hawk Down
+Release Year: 2001
+IMDB Rating: undefined
+Ratings: {"Source":"Rotten Tomatoes","Value":"76%"}
+The movie was made in: USA, UK
+The language is: English, Somali, Arabic
+The Plot is: 160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.
+The Actors are: Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana
