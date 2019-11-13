@@ -1,0 +1,55 @@
+Song Info for Hello
+Artist: Adele
+Song Name: Hello
+Album Name: 25
+Preview URL: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=521d3d0154e347ada0dcfeb61b078a66
+
+Song Info for I Want It That Way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=521d3d0154e347ada0dcfeb61b078a66
+
+Movie Title: Up
+Release Year: 2009
+IMDB Rating: undefined
+Ratings: {"Source":"Rotten Tomatoes","Value":"98%"}
+The movie was made in: USA
+The language is: English
+The Plot is: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
+The Actors are: Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
+
+
+
+Song Info for I Want It That Way
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Album Name: The Hits--Chapter One
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=521d3d0154e347ada0dcfeb61b078a66
+
+Movie Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: undefined
+Ratings: {"Source":"Rotten Tomatoes","Value":"67%"}
+The movie was made in: Belgium, Germany, Canada, France, USA, UK
+The language is: English, Mohawk
+The Plot is: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+The Actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Movie Title: Up
+Release Year: 2009
+IMDB Rating: undefined
+Ratings: {"Source":"Rotten Tomatoes","Value":"98%"}
+The movie was made in: USA
+The language is: English
+The Plot is: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
+The Actors are: Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
+
+Movie Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: undefined
+Ratings: {"Source":"Rotten Tomatoes","Value":"67%"}
+The movie was made in: Belgium, Germany, Canada, France, USA, UK
+The language is: English, Mohawk
+The Plot is: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+The Actors are: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham

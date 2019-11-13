@@ -11,6 +11,8 @@ var subject;
 var command = process.argv[2];
 // spotify API keys
 var Spotify = require("node-spotify-api");
+var song;
+var queryUrl;
 
 var spotify = new Spotify({
     id: keys.spotify.id,
@@ -31,16 +33,10 @@ switch (command) {
 
     case "movie-this":
         console.log("movie");
-        console.log(process.argv.length)
-        if (process.argv.length === 3) {
-            subject = "mr+nobody";
-            findMovie();
-        } else {
-            findMovie();
-        }
+        findMovie();
         break;
-
-    case "do-what"://-it-says
+    // can change into function/object
+    case "do-what-it-says":
         console.log("doing what is says");
         doWhat();
         break;
@@ -53,15 +49,34 @@ function doWhat() {
         }
         console.log(data);
         var dataArray = data.split(",");
-
         command = dataArray[0];
+
         if (command === "spotify-this-song") {
             song = dataArray[1].slice(1, -1);
-            findSong(song);
-        }
+            spotify.search({ type: 'track', query: song, limit: 1 })
+                .then(function (response) {
 
+                    var songInfo = "Song Info for " + response.tracks.items[0].name +
+                        "\nArtist: " + response.tracks.items[0].artists[0].name +
+                        "\nSong Name: " + response.tracks.items[0].name +
+                        "\nAlbum Name: " + response.tracks.items[0].album.name +
+                        "\nPreview URL: " + response.tracks.items[0].preview_url + "\n";
+                    console.log(songInfo)
+                    fs.appendFile("log.txt", "\n" + songInfo, function (err) {
+                        if (err) {
+                            console.log(err);
+                        } else {
+                            console.log("content added to log.txt")
+                        }
+
+                    })
+                }).catch(function (err) {
+                    console.log(err)
+                });
+        }
     })
 }
+
 
 
 function findConcert() {
@@ -96,7 +111,7 @@ function findConcert() {
 }
 
 function findSong(song) {
-    var song = process.argv.splice(3).join("")
+    song = process.argv.splice(3).join("")
     spotify.search({ type: 'track', query: song, limit: 1 })
         .then(function (response) {
 
@@ -120,13 +135,16 @@ function findSong(song) {
 };
 
 
-
-
 function findMovie() {
     key = keys.omdb.id;
-    subject = process.argv.splice(3).join("+");
-    var queryUrl = "http://www.omdbapi.com/?t=" + subject + "&y=&plot=short&apikey=" + key;
+    if (subject = process.argv.splice(3).join("+")) {
 
+        queryUrl = "http://www.omdbapi.com/?t=" + subject + "&y=&plot=short&apikey=" + key;
+    }
+    else if (!subject) {
+        subject = "mr+nobody"
+        queryUrl = "http://www.omdbapi.com/?t=" + subject + "&y=&plot=short&apikey=" + key;
+    }
     //need help on this?? how to get the subject to be undefined?
     axios.get(queryUrl).then(
         function (response) {
@@ -147,14 +165,13 @@ function findMovie() {
                 } else {
                     console.log("content added to log.txt")
                 }
-
             })
-
         })
         .catch(function (err) {
             console.log(err);
         });
 }
+
 /*if (process.argv.length < 4) {
     subject = "mr+nobody"
     axios.get("http://www.omdbapi.com/?t=" + subject + "&y=&plot=short&apikey=" + key).then(
